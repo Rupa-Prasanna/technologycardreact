@@ -1,0 +1,35 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+.technology-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 50%;
+  background-color: white;
+  border-radius: 15px;
+}
+.card-heading {
+  font-size: 22px;
+}
+.card-para {
+  font-size: 18px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
